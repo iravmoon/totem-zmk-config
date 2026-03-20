@@ -35,11 +35,6 @@
             bindings = <&kp ENTER>;
             key-positions = <16 17 18>;
         };
-
-        Max_Window {
-            bindings = <&kp LC(LA(LEFT_COMMAND))>;
-            key-positions = <32 33 34>;
-        };
     };
 
     macros {
